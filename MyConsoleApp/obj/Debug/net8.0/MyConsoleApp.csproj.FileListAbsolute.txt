@@ -1,0 +1,15 @@
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.sourcelink.json
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\AU24 Classes\ACCTMIS 4630 - Bus Sys App Dev\React\npm\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll
